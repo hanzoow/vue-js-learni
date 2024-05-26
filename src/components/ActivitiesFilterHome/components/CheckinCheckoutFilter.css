@@ -1,0 +1,26 @@
+.calendar-container {
+}
+.dp__theme_dark {
+  --dp-background-color: transparent;
+  --dp-menu-border-color: transparent;
+}
+
+.dp__theme_light {
+  --dp-background-color: transparent;
+  --dp-menu-border-color: transparent;
+}
+
+.dp__cell_disabled {
+  text-decoration-line: line-through;
+}
+
+.custom-month-year-component {
+  align-self: center;
+}
+
+.dp__month_year_wrap {
+  justify-content: space-between;
+}
+
+.item-container {
+}

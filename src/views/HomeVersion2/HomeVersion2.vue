@@ -1,7 +1,7 @@
 <script setup>
 import NavBar from '../../components/NavBar.vue'
 import AnimatedIntroHome from '../../components/AnimatedIntroHome.vue'
-import ActivitiesFilterHome from '@/components/ActivitiesFilterHome.vue'
+import ActivitiesFilterHome from '@/components/ActivitiesFilterHome/index.vue'
 </script>
 
 <template>

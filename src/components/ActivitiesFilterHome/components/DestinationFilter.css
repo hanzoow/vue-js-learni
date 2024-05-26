@@ -1,0 +1,9 @@
+.item-destination:hover {
+  border-right-width: 1px;
+  border-right-color: red;
+}
+
+.hidden-item-active {
+  display: none;
+  width: 0px;
+}
